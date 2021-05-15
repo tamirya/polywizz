@@ -1,5 +1,4 @@
 # polywizz
-Home Assignment
 
 Server Side:
 written in Python 3.7
