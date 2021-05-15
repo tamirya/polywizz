@@ -6,7 +6,7 @@ written in Python 3.7
 Client
 React JS
 
-#instructions
+# instructions
 
-Server:
-To run the server run the command ( On Windown ): python.exe .\main.py 
+Server Side:<br />
+To run the server run the command ( On Windows ): python.exe .\main.py 
