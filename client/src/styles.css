@@ -1,0 +1,35 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.footer {
+    height: 60px;
+    background-color: #f5f5f5;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer .copyright{
+    margin: 20px auto;
+}
+
+.footer .fa-copyright{
+    font-size:18px;
+    color:red;
+    vertical-align: middle;
+}
+
+.search-history-list{
+    overflow-y: scroll;
+    height: 373px;
+}
+
+.search-results-list{
+    margin-bottom: 80px;
+}
+
+.search-results-item{
+    margin-bottom:10px;
+}
